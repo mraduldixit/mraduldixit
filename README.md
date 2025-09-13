@@ -46,23 +46,11 @@
 ---
 
 <h3 align="left">🚀 Featured Projects:</h3>
-<p align="center">
-  <!-- Frontend Project -->
-  <a href="https://github.com/mraduldixit/your-frontend-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-frontend-project&theme=tokyonight" />
-  </a>
-  
-  <!-- Fullstack Project -->
-  <a href="https://github.com/mraduldixit/your-fullstack-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-fullstack-project&theme=tokyonight" />
-  </a>
-</p>
 
-<!-- Shark Tank Project -->
 <h4 align="center">🦈 Shark Tank Project</h4>
 <p align="center">
   <a href="https://shark-tank.vercel.app/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Shark_Tank_logo.png" alt="Shark Tank Project" width="300"/>
+    <img src="https://m.media-amazon.com/images/I/71VjYwE56pL._AC_UF1000,1000_QL80_.jpg" alt="Shark Tank Project" width="400"/>
   </a>
 </p>
 
