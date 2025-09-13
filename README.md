@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm <a href="https://new-portfolio-pink-delta.vercel.app/" target="_blank">Mradul Dixit</a>
 </h1>
-<h3 align="center">A passionate Frontend Developer (React | Next.js | TypeScript)</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="center">
   <!-- Tech badges -->
@@ -12,11 +12,12 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraduldixit&label=Profile%20views&color=0e75b6&style=flat" alt="mraduldixit" /> </p>
