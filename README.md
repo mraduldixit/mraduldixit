@@ -1,9 +1,7 @@
-<p align="center">
-  <a href="https://new-portfolio-pink-delta.vercel.app/">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="portfolio" width="40" height="40"/>
-  </a>
-  <span style="font-size: 24px; font-weight: bold; margin-left: 10px;">Hi 👋, I'm Mradul Dixit</span>
-</p>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://new-portfolio-pink-delta.vercel.app/" target="_blank">Mradul Dixit</a>
+</h1>
+<h3 align="center">A passionate Frontend Developer (React | Next.js | TypeScript)</h3>
 
 <p align="center">
   <!-- Tech badges -->
