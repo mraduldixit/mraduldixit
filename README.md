@@ -28,12 +28,6 @@
 - 📄 Know about my experiences [Resume](https://bit.ly/mradul_software_engineer) 
 - ⚡ Fun fact: **I love building things that solve real problems**  
 
----
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mraduldixit&theme=onedark&no-frame=true&row=1&column=6" alt="mraduldixit" />
-</p>
 
 ---
 
@@ -53,9 +47,31 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 <p align="center">
-  <a href="https://github.com/mraduldixit/your-frontend-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-frontend-project&theme=tokyonight" /></a>
-  <a href="https://github.com/mraduldixit/your-fullstack-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-fullstack-project&theme=tokyonight" /></a>
+  <!-- Frontend Project -->
+  <a href="https://github.com/mraduldixit/your-frontend-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-frontend-project&theme=tokyonight" />
+  </a>
+  
+  <!-- Fullstack Project -->
+  <a href="https://github.com/mraduldixit/your-fullstack-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-fullstack-project&theme=tokyonight" />
+  </a>
 </p>
+
+<!-- Shark Tank Project -->
+<h4 align="center">🦈 Shark Tank Project</h4>
+<p align="center">
+  <a href="https://github.com/mraduldixit/shark-tank-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=shark-tank-project&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-shark-tank-live-demo-link.com">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Shark_Tank_logo.png/320px-Shark_Tank_logo.png" alt="Shark Tank Project" width="300"/>
+  </a>
+</p>
+
 
 ---
 
