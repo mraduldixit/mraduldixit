@@ -47,7 +47,7 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-<h4 align="center">🦈 <a href="https://new-portfolio-pink-delta.vercel.app/" target="_blank">Shark Tank Project</a></h4>
+<h4 align="center">🦈 <a href="https://shark-tank.vercel.app/" target="_blank">Shark Tank Project</a></h4>
 
 
 
