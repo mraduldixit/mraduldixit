@@ -61,16 +61,11 @@
 <!-- Shark Tank Project -->
 <h4 align="center">🦈 Shark Tank Project</h4>
 <p align="center">
-  <a href="https://github.com/mraduldixit/shark-tank-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=shark-tank-project&theme=tokyonight" />
+  <a href="https://shark-tank.vercel.app/">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Shark_Tank_logo.png" alt="Shark Tank Project" width="300"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://your-shark-tank-live-demo-link.com">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Shark_Tank_logo.png/320px-Shark_Tank_logo.png" alt="Shark Tank Project" width="300"/>
-  </a>
-</p>
 
 
 ---
