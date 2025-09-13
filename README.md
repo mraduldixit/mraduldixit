@@ -1,4 +1,6 @@
 [![Portfolio](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://new-portfolio-pink-delta.vercel.app/)
+<a href="https://linkedin.com/in/mradul-dixit-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mradul-dixit-profile" height="30" width="40" /></a>
+
 <h1 align="center">Hi 👋, I'm Mradul Dixit</h1>
 <h3 align="center">A passionate Software Development Engineer (Frontend focused, Fullstack capable)</h3>
 
@@ -23,8 +25,8 @@
 - 🌱 Software Development Engineer @ **Western Union**  
 - 👯 I’m looking to collaborate on **React, Next.js, and Fullstack Projects**  
 - 💬 Ask me about **React, Redux Toolkit, JavaScript, TypeScript, Java, Spring Boot, SQL, DSA**  
-- 📫 Reach me at **mradulofficial123@gmail.com / +91 8979907283**  
-- 📄 Know about my experiences [Resume](https://drive.google.com/) <!-- replace with your real link -->  
+- 📫 Reach me at **mraduldixit2002@gmail.com / +91 8979907283**  
+- 📄 Know about my experiences [Resume](https://bit.ly/mradul_software_engineer) 
 - ⚡ Fun fact: **I love building things that solve real problems**  
 
 ---
