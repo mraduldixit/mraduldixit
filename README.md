@@ -57,6 +57,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mradul-dixit-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mradul-dixit-profile" height="30" width="40" /></a>
 <a href="https://github.com/mraduldixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mraduldixit" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/mraduldixit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mraduldixit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mradulofficial123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mradulofficial123" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mraduldixit2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mraduldixit" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/mraduldixit2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mradulofficial123" height="30" width="40" /></a>
 </p>
