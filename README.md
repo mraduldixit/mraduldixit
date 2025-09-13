@@ -1,41 +1,67 @@
-[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://rishu-singh.herokuapp.com/)
-<h1 align="center">Hi 👋, I'm Rishu Singh</h1>
-<h3 align="center">A passionate Java-Fullstack Developer and Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishusing&label=Profile%20views&color=0e75b6&style=flat" alt="rishusing" /> </p>
+[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://new-portfolio-pink-delta.vercel.app/)
+<h1 align="center">Hi 👋, I'm Mradul Dixit</h1>
+<h3 align="center">A passionate Software Development Engineer (Frontend focused, Fullstack capable)</h3>
 
-<p align="left"> <a href="https://twitter.com/rishusi28747612" target="blank"><img src="https://img.shields.io/twitter/follow/rishusi28747612?logo=twitter&style=for-the-badge" alt="rishusi28747612" /></a> </p>
-
-- 🌱 Junior Associate Solution Engineer @ **WESTERN UNION**
-
-- 👯 I’m looking to collaborate on **Java Projects (Java-Fullstack Stack)**
-
-- 💬 Ask me about **React, Redux, Javascript, C++, Node, Socket, Express, MongoDB, Java, SpringBoot, Firebase, HTML, CSS**
-
-- 📫 How to reach me **rishusingh040701@gmail.com / 8853631554**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HQ6KXhcvpQz3kgpvr_1_EKTEiOWNJWOb/view?usp=drivesdk)
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rishusi28747612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishusi28747612" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishu-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishu-profile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rishu-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishu-singh" height="30" width="40" /></a>
-<a href="https://instagram.com/l_i_s_h_u_s_i_n_g_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l_i_s_h_u_s_i_n_g_h" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lishu_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lishu_singh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rishu94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rishu94" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lishu_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lishu_singh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishu04072001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishu04072001" height="30" width="40" /></a>
-<a href="https://discord.gg/Rishu Singh | Contributor#7752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rishu Singh | Contributor#7752" height="30" width="40" /></a>
+<p align="center">
+  <!-- Tech badges -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mraduldixit&label=Profile%20views&color=0e75b6&style=flat" alt="mraduldixit" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishusing&show_icons=true&locale=en&layout=compact" alt="rishusing" /></p>
+- 🌱 Software Development Engineer @ **Western Union**  
+- 👯 I’m looking to collaborate on **React, Next.js, and Fullstack Projects**  
+- 💬 Ask me about **React, Redux Toolkit, JavaScript, TypeScript, Java, Spring Boot, SQL, DSA**  
+- 📫 Reach me at **mradulofficial123@gmail.com / +91 8979907283**  
+- 📄 Know about my experiences [Resume](https://drive.google.com/) <!-- replace with your real link -->  
+- ⚡ Fun fact: **I love building things that solve real problems**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishusing&show_icons=true&locale=en" alt="rishusing" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishusing&" alt="rishusing" /></p>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mraduldixit&theme=onedark&no-frame=true&row=1&column=6" alt="mraduldixit" />
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mraduldixit&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mraduldixit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mraduldixit&show_icons=true&locale=en&theme=tokyonight" alt="mraduldixit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mraduldixit&theme=tokyonight" alt="mraduldixit" /></p>
+
+---
+
+<h3 align="left">🔥 Contribution Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraduldixit&theme=tokyo-night" alt="mraduldixit graph" />
+</p>
+
+---
+
+<h3 align="left">🚀 Featured Projects:</h3>
+<p align="center">
+  <a href="https://github.com/mraduldixit/your-frontend-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-frontend-project&theme=tokyonight" /></a>
+  <a href="https://github.com/mraduldixit/your-fullstack-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mraduldixit&repo=your-fullstack-project&theme=tokyonight" /></a>
+</p>
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mradul-dixit-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mradul-dixit-profile" height="30" width="40" /></a>
+<a href="https://github.com/mraduldixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mraduldixit" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mraduldixit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mraduldixit" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mradulofficial123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mradulofficial123" height="30" width="40" /></a>
+</p>
