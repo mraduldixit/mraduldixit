@@ -1,4 +1,4 @@
-[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://new-portfolio-pink-delta.vercel.app/)
+[![Portfolio](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://new-portfolio-pink-delta.vercel.app/)
 <h1 align="center">Hi 👋, I'm Mradul Dixit</h1>
 <h3 align="center">A passionate Software Development Engineer (Frontend focused, Fullstack capable)</h3>
 
