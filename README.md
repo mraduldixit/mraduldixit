@@ -1,7 +1,9 @@
-[![Portfolio](https://cdn-icons-png.flaticon.com/512/3135/3135715.png)](https://new-portfolio-pink-delta.vercel.app/)
-
-<h1 align="center">Hi 👋, I'm Mradul Dixit</h1>
-<h3 align="center">A passionate Software Development Engineer (Frontend focused, Fullstack capable)</h3>
+<p align="center">
+  <a href="https://new-portfolio-pink-delta.vercel.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="portfolio" width="40" height="40"/>
+  </a>
+  <span style="font-size: 24px; font-weight: bold; margin-left: 10px;">Hi 👋, I'm Mradul Dixit</span>
+</p>
 
 <p align="center">
   <!-- Tech badges -->
